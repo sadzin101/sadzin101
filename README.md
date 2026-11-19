@@ -12,7 +12,7 @@
 
   <!-- Social Badges -->
   <a href="mailto:toldhy@gmail.com"><img src="https://img.shields.io/badge/Email-toldhy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/SEU_INSTA" target="_blank"><img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://discord.com/users/SEU_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-Mensagem-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 

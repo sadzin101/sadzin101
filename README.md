@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38,40&height=200&section=header&text=Toldh&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <!-- Header Banner Stylized in Red -->
+  <img src="https://raw.githubusercontent.com/sadzin101/sadzin101/main/assets/banner.svg" alt="yToldh" width="100%"/>
   <br/>
 
-  <!-- Dynamic Typing Subtitle -->
+  <!-- Dynamic Typing Subtitle in Red Accent -->
   <a href="https://github.com/sadzin101">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Game+Developer+%26+Software;Godot+%7C+C%23+%7C+Python+%7C+Web;Construindo+ideias+e+projetos;Explorando+IAs+%26+Criatividade" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF2E44&center=true&vCenter=true&width=500&lines=Game+Developer+%26+Software;Godot+%7C+C%23+%7C+Python+%7C+Web;Construindo+ideias+e+projetos;Explorando+IAs+%26+Criatividade" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -54,16 +54,16 @@
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sadzin101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7DCFFF&text_color=C0CAF5" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadzin101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sadzin101&show_icons=true&bg_color=0D0204&title_color=FF2E44&icon_color=FF4757&text_color=E5E7EB&border_color=38040A" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadzin101&layout=compact&bg_color=0D0204&title_color=FF2E44&text_color=E5E7EB&border_color=38040A" alt="Top Languages" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadzin101&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=7DCFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadzin101&background=0D0204&border=38040A&stroke=38040A&ring=FF2E44&fire=FF2E44&currStreakNum=FFFFFF&sideNums=E5E7EB&currStreakLabel=FF2E44&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub Streak" />
 </div>
 
-<!-- Footer Wave -->
+<!-- Footer Wave in Deep Red Gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38,40&height=90&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080102,40:400008,75:8b0012,100:e01026&height=90&section=footer" width="100%"/>
 </div>

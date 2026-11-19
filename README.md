@@ -11,9 +11,10 @@
   <br/><br/>
 
   <!-- Social Badges -->
+  <a href="https://www.instagram.com/fs.gomes19/" target="_blank"><img src="https://img.shields.io/badge/Instagram-fs.gomes19-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@ytoldh" target="_blank"><img src="https://img.shields.io/badge/TikTok-%40ytoldh-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://discord.gg/UWH6GwcCdu" target="_blank"><img src="https://img.shields.io/badge/Discord-Matriz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:toldhy@gmail.com"><img src="https://img.shields.io/badge/Email-toldhy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/SEU_INSTA" target="_blank"><img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.com/users/SEU_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-Mensagem-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 ---
